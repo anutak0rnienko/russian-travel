@@ -1,0 +1,13 @@
+.header {
+    padding: 0;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    max-width: calc(100% - 96px);
+}
+
+@media screen {
+    .header {
+         
+    }
+}

@@ -1,0 +1,9 @@
+.footer {
+    width: 1184px;
+    height: 18px;
+    margin: 0 auto;
+    margin-top: 92px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+}
