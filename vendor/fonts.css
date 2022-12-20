@@ -15,7 +15,7 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 200;
-     src: url('../inter/inter-v12-latin_cyrillic-200.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-200.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-200.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-200.woff2') format('woff2'), 
