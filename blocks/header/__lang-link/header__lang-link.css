@@ -7,14 +7,14 @@
     list-style-type: none;
     transition: .5s;
 }
-.header__lang-link:not(:last-child){
+.header__lang-link:not(:last-child) {
     margin-right: 18px;
 }
 .header__lang-link:hover {
     opacity: .8;
 }
 
-@media screen and (max-width: 425px){
+@media screen and (max-width: 425px) {
     .header__lang-link {
         width: 22px;
         height: 20px;
