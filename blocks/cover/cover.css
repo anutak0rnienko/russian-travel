@@ -6,8 +6,23 @@
     height: 740px;
     margin: 0 auto;
     margin-top: 92px; 
-    position: relative;
+   position: relative;
     z-index: 1;
+}
+.cover::before{
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #2A2C2F;
+    opacity: .3;
+    width: 100%;
+    height: 100%;
+    transition: .5s;
+}
+.cover:hover::before {
+    opacity: .8;
 }
 
 @media screen and (max-width: 1024px){
