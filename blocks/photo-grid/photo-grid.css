@@ -1,5 +1,5 @@
 .photo-grid {
-    max-width: calc(100% -96px);
+    max-width: calc(100% - 96px);
     padding: 0;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -22,7 +22,7 @@
     .photo-grid {
         max-width: calc(100% - 48px);
         grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: repeat(6, 1fr);  
+        grid-template-rows: repeat(6, 1fr);
         margin-left: 24px;
         margin-right: 24px;
         margin-bottom: 88px;
@@ -33,7 +33,7 @@
     .photo-grid {
         max-width: calc(100% - 32px);
         grid-template-columns: repeat(1, 1fr);
-        grid-template-rows: repeat(12, 1fr);  
+        grid-template-rows: repeat(12, 1fr);
         margin-left: 16px;
         margin-right: 16px;
         margin-bottom: 64px;
