@@ -2,13 +2,13 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 100;
-     src: url('../inter/inter-v12-latin_cyrillic-100.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-100.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-100.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-100.woff2') format('woff2'), 
           url('../inter/inter-v12-latin_cyrillic-100.woff') format('woff'), 
           url('../inter/inter-v12-latin_cyrillic-100.ttf') format('truetype'), 
-          url('../inter/inter-v12-latin_cyrillic-100.svg#Inter') format('svg'); 
+          url('../inter/inter-v12-latin_cyrillic-100.svg#Inter') format('svg');
    }
 
    @font-face {
@@ -28,7 +28,7 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 300;
-     src: url('../inter/inter-v12-latin_cyrillic-300.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-300.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-300.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-300.woff2') format('woff2'), 
@@ -41,20 +41,20 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 400;
-     src: url('../inter/inter-v12-latin_cyrillic-regular.eot'); /* IE9 Compat Modes */
+     src: url('../inter/inter-v12-latin_cyrillic-regular.eot');
      src: local(''),
-          url('../inter/inter-v12-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-          url('../inter/inter-v12-latin_cyrillic-regular.woff2') format('woff2'), /* Super Modern Browsers */
-          url('../inter/inter-v12-latin_cyrillic-regular.woff') format('woff'), /* Modern Browsers */
-          url('../inter/inter-v12-latin_cyrillic-regular.ttf') format('truetype'), /* Safari, Android, iOS */
-          url('../inter/inter-v12-latin_cyrillic-regular.svg#Inter') format('svg'); /* Legacy iOS */
+          url('../inter/inter-v12-latin_cyrillic-regular.eot?#iefix') format('embedded-opentype'),
+          url('../inter/inter-v12-latin_cyrillic-regular.woff2') format('woff2'),
+          url('../inter/inter-v12-latin_cyrillic-regular.woff') format('woff'),
+          url('../inter/inter-v12-latin_cyrillic-regular.ttf') format('truetype'),
+          url('../inter/inter-v12-latin_cyrillic-regular.svg#Inter') format('svg');
    }
 
    @font-face {
      font-family: 'Inter';
      font-style: normal;
      font-weight: 500;
-     src: url('../inter/inter-v12-latin_cyrillic-500.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-500.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-500.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-500.woff2') format('woff2'), 
@@ -80,7 +80,7 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 700;
-     src: url('../inter/inter-v12-latin_cyrillic-700.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-700.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-700.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-700.woff2') format('woff2'), 
@@ -93,7 +93,7 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 800;
-     src: url('../inter/inter-v12-latin_cyrillic-800.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-800.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-800.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-800.woff2') format('woff2'), 
@@ -106,7 +106,7 @@
      font-family: 'Inter';
      font-style: normal;
      font-weight: 900;
-     src: url('../inter/inter-v12-latin_cyrillic-900.eot'); 
+     src: url('../inter/inter-v12-latin_cyrillic-900.eot');
      src: local(''),
           url('../inter/inter-v12-latin_cyrillic-900.eot?#iefix') format('embedded-opentype'), 
           url('../inter/inter-v12-latin_cyrillic-900.woff2') format('woff2'), 
