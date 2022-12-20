@@ -17,3 +17,5 @@
 **Планы по доработке проекта**
 
 * Переключение языка на странице с Ru на En;
+
+[Ссылка на проект](https://anutak0rnienko.github.io/russian-travel/index.html)
