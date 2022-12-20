@@ -1,0 +1,22 @@
+.footer__list-item {
+    list-style-type: none;
+    transition: .5s;
+}
+
+.footer__list-item:not(:last-child) {
+    margin-right: 18px;
+}
+
+.footer__list-item:hover {
+    opacity: .8;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 425px){
+    .footer__list-item:not(:last-child) {
+        margin-right: 0;
+    }
+    .footer__list-item:not(:last-child) {
+        margin-bottom: 32px;
+    }
+}
