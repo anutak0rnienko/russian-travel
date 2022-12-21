@@ -3,46 +3,30 @@
     background-repeat: no-repeat;
     background-size: cover;
     max-width: 1184px;
-    height: 740px;
+    min-height: 740px;
     margin: 0 auto;
     margin-top: 92px;
-   position: relative;
-    z-index: 1;
-}
-.cover::before {
-    content: '';
-    display: block;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background-color: #2A2C2F;
-    opacity: .3;
-    width: 100%;
-    height: 100%;
-    transition: .5s;
-}
-.cover:hover::before {
-    opacity: .8;
+    position: relative;
 }
 
 @media screen and (max-width: 1024px) {
     .cover {
         max-width: 100%;
-        max-height: 640px;
+        min-height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover {
         margin-top: 90px;
-        max-height: 480px;
+        min-height: 480px;
     }
 }
 
 @media screen and (max-width: 425px) {
     .cover {
         margin-top: 66px;
-        max-height: 200px;
+        min-height: 200px;
     }
 }
 
